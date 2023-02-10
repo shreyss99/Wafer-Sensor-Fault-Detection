@@ -19,7 +19,7 @@
     Data will contain Wafer names and 590 columns of different sensor values for each wafer.
     The last column will have the "Good/Bad" value for each wafer.
     
-    Apart from training files, we laso require a "schema" file from the client, which contain all the
+    Apart from training files, we also require a "schema" file from the client, which contain all the
     relevant information about the training files such as:
     
     Name of the files, Length of Date value in FileName, Length of Time value in FileName, NUmber of Columnns, 
